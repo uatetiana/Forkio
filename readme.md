@@ -18,3 +18,4 @@
 			10. `gulp-uglify-es`
 * __List of project participants__
 	1. _Tatyana and Rostislav_
+* __Link to GitHub Pages: https://uatetiana.github.io/Forkio/ 
